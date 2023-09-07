@@ -1,0 +1,3 @@
+D:/User Profiles/Peichen Chang/Documents/GitHub/MTextEditor/out/build/Mingw64-Release/CMakeFiles/MTextEditor.dir
+D:/User Profiles/Peichen Chang/Documents/GitHub/MTextEditor/out/build/Mingw64-Release/CMakeFiles/edit_cache.dir
+D:/User Profiles/Peichen Chang/Documents/GitHub/MTextEditor/out/build/Mingw64-Release/CMakeFiles/rebuild_cache.dir
